@@ -1,4 +1,4 @@
-# bankiru
+# confluence-comments
 get comments from Confluence RSS
 
 ## Getting Started
